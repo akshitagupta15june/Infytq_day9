@@ -1,4 +1,4 @@
-# Infytq_day9
+# Infytq day 9 Practice problems
 It contains practice problem of day 9 infytq of all levels.
 
 level 1
