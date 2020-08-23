@@ -1,6 +1,6 @@
 # Infytq day 9 Practice problems
 
-## Python Fundamentals
+## Programming Fundamentals using Python 
 
 
 It contains practice problem of day 9 infytq of all levels.
